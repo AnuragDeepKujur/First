@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>This is my website</title>
-</head>
-<body>
-
-</body>
-</html>
+Hello Dude.....!!!!
